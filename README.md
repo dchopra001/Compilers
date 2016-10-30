@@ -1,4 +1,4 @@
-ECE-351-Compilers
-=================
+Labs for my Compilers course
+=============================
 
-Compilers lab to compile subset of vhdl to Java to simulate / view with graphviz
+labs to compile subset of vhdl to Java to simulate / view with graphviz
